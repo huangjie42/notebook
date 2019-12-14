@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#todoapp{
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+  /* border: 1px solid rebeccapurple; */
+  background-color: gainsboro;
+}
+.header{
+  text-align: center;
+}
+input{
+  width: 330px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+.view{
+  width: 400px;
+  height: 35px;
+  margin: 0 auto;
+  text-decoration: none;
+  /* border: 1px rebeccapurple solid; */
+}
+laber{
+  float: left;
+}
+li{
+  list-style: none;
+
+}
+.destroy{
+  float: right;
+}
+footer{
+  width: 400px;
+  height: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.clear-completed{
+  float: right;
+}
+
+
+
